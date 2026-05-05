@@ -1,0 +1,43 @@
+# OS detritus
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Editor backups & swap files
+*~
+*.bak
+*.orig
+*.rej
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+Session.vim
+
+# Emacs
+\#*\#
+.\#*
+auto-save-list/
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Python (helper scripts, lesson code samples run locally)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+
+# Local environment / private drafts
+.env
+.env.local
+/drafts/
+/scratch/
