@@ -72,7 +72,7 @@
 | Lesson | Zone | Topic | Status |
 |---|---|---|---|
 | Lesson 2 | Z11 — Outgoings | Syntax & Output — calling out across the floor | 🟡 Drafted |
-| Lesson 3 | Z3 — Warehouse | Data Types — the full range of objects on the shelves | 🔲 Not started |
+| Lesson 3 | Z3 — Warehouse | Data Types — the full range of objects on the shelves | 🟡 Drafted |
 | Lesson 4 | Z3 — Warehouse | Numbers — stones and vials in depth | 🔲 Not started |
 
 **What the learner can do after Phase 1:**
