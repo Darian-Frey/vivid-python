@@ -24,7 +24,7 @@
 | Phase | Name | Lessons | Zone focus | Status |
 |---|---|---|---|---|
 | 0 | **Foundation** | Overview, Lesson 1 | Z3 — Warehouse | 🟡 In progress |
-| 1 | **First Words** | Lessons 2–4 | Z11, Z3 | 🔲 Not started |
+| 1 | **First Words** | Lessons 2–4 | Z11, Z3 | 🟡 In progress |
 | 2 | **The Full Warehouse** | Lessons 5–11 | Z3 in depth | 🔲 Not started |
 | 3 | **The Factory Floor** | Lessons 12–19 | Z5 | 🔲 Not started |
 | 4 | **The Supporting Buildings** | Lessons 20–25 | Z1, Z2, Z4, Z7, Z8 | 🔲 Not started |
@@ -71,7 +71,7 @@
 
 | Lesson | Zone | Topic | Status |
 |---|---|---|---|
-| Lesson 2 | Z11 — Outgoings | Syntax & Output — calling out across the floor | 🔲 Not started |
+| Lesson 2 | Z11 — Outgoings | Syntax & Output — calling out across the floor | 🟡 Drafted |
 | Lesson 3 | Z3 — Warehouse | Data Types — the full range of objects on the shelves | 🔲 Not started |
 | Lesson 4 | Z3 — Warehouse | Numbers — stones and vials in depth | 🔲 Not started |
 

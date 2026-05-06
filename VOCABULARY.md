@@ -151,6 +151,8 @@ The tutorial uses specific physical verbs for specific Python operations. Use th
 | Writing to a file (output) | **Pack and dispatch** | "The dispatch team packs the result into a crate and sends it to the depot." |
 | Writing to a file (storage) | **Send a package to Records** | "Send the finished record to the Records Department." |
 | `print()` | **Call out across the floor** | "The workstation calls out the result across the factory floor." |
+| Comment (`# ...`) | **Note pinned to the shelves** | "A note pinned to the shelf is for the human reader; the machine walks past it." |
+| Indentation (block syntax) | **Lane markings on the floor** | "Lane markings group lines into one run of work; every line inside the same lane belongs to the same job." |
 | `logging.info()` etc. | **Report to CCTV** | "The workstation reports to CCTV: shift started." |
 | `append()` on a list | **Add to the numbered row** | "Add the new stone to the end of the numbered row." |
 | `dict[key]` lookup | **Open the labelled drawer** | "Open the drawer labelled `player_name` and retrieve what is inside." |
