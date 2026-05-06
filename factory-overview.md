@@ -3,7 +3,7 @@
 
 > **Series**: Python for Hyperphantasic Minds  
 > **Document type**: Series overview — read this before any lesson  
-> **Vocabulary standard**: VOCABULARY.md v0.1  
+> **Vocabulary standard**: VOCABULARY.md v0.2  
 > **Purpose**: Every program you will ever write follows the same flow through the same building. This document is the architect's blueprint. Return to it whenever you need to locate yourself.
 
 ---
@@ -183,7 +183,7 @@ filename = sys.argv[1]   # the first scroll in the row
 
 ## Z3 — The Warehouse
 
-Row upon row of cubbyholes, each labelled with a name card, each holding a single object. Everything is stored here between the moment it arrives and the moment it is needed on the factory floor.
+Row upon row of cubbyholes, each labelled with a name card, each holding a single item. Everything is stored here between the moment it arrives and the moment it is needed on the factory floor.
 
 ```python
 name = "Shane"
@@ -193,9 +193,9 @@ score = 0
 
 **What Lives on the Shelves**
 
-Every object on a warehouse shelf has a specific physical form. These forms are consistent across every lesson and every diagram in this series:
+Every item on a warehouse shelf has a specific physical form. These forms are consistent across every lesson and every diagram in this series:
 
-| Physical object | Python type | Example values |
+| Physical item | Python type | Example values |
 |---|---|---|
 | **Stone** | `int` | `42`, `-7`, `1000000` |
 | **Vial** | `float` | `3.14`, `-0.5`, `9.81` |
@@ -411,7 +411,7 @@ The `try` block is the main inspection belt. Python watches it run. If anything 
 
 **The Checkpoint — Validation**
 
-Before material even reaches the Factory Floor, a technician at the warehouse door can run a quick check against the incoming item. Is it in the expected range? Is it the right kind of object?
+Before material even reaches the Factory Floor, a technician at the warehouse door can run a quick check against the incoming item. Is it in the expected range? Is it the right kind of item?
 
 ```python
 age = int(input("Enter your age: "))

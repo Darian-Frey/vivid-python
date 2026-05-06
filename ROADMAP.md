@@ -41,18 +41,18 @@
 
 | Document | Status | Notes |
 |---|---|---|
-| `Python-factory-overview.md` | ✅ Complete | Full 11-zone map, vocabulary-compliant v0.2 |
+| `factory-overview.md` | ✅ Complete | Full 11-zone map, vocabulary-compliant v0.2 |
 | `VOCABULARY.md` | ✅ Complete | v0.2 — full contract between tutorial and Locus |
 | `README.md` | ✅ Complete | Repo introduction with factory diagram and lesson table |
 | `lesson-01-variables.md` | 🟡 Drafted | v0.2 vocabulary pass complete; full content review pending after tutorial outline is in place |
 
 **Phase 0 exit criteria:**
 
-- [ ] All four documents are vocabulary-compliant against VOCABULARY.md v0.2
-- [ ] Lesson 1 uses "named cubbyhole" on first introduction, not "variable"
-- [ ] Lesson 1 has no banned terms from Part 7 of VOCABULARY.md
-- [ ] The WHERE YOU ARE diagram is present and correct in Lesson 1
-- [ ] The repo structure is in place: `README.md`, `VOCABULARY.md`, `ROADMAP.md`, `factory-overview.md`, `lessons/lesson-01-variables.md`
+- [x] All four documents are vocabulary-compliant against VOCABULARY.md v0.2
+- [x] Lesson 1 uses "named cubbyhole" on first introduction, not "variable"
+- [x] Lesson 1 has no banned terms from Part 7 of VOCABULARY.md
+- [x] The WHERE YOU ARE diagram is present and correct in Lesson 1
+- [x] The repo structure is in place: `README.md`, `VOCABULARY.md`, `ROADMAP.md`, `factory-overview.md`, `lessons/lesson-01-variables.md`
 
 **Locus requirements for Phase 0:**
 
