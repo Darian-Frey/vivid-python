@@ -108,7 +108,7 @@
 | Lesson | Zone | Topic | Status |
 |---|---|---|---|
 | Lesson 5 | Z3 → Z5 | Casting — pressing objects into moulds | 🟡 Drafted |
-| Lesson 6 | Z3 — Warehouse | Strings — scrolls in depth | 🔲 Not started |
+| Lesson 6 | Z3 — Warehouse | Strings — scrolls in depth | 🟡 Drafted |
 | Lesson 7 | Z3 — Warehouse | Lists — numbered rows in depth | 🔲 Not started |
 | Lesson 8 | Z5 — Factory Floor | Functions — the first workstation | 🔲 Not started |
 | Lesson 9 | Z3 — Warehouse | Scope — the locked rooms in full | 🔲 Not started |
