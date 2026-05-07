@@ -25,7 +25,7 @@
 |---|---|---|---|---|
 | 0 | **Foundation** | Overview, Lesson 1 | Z3 — Warehouse | 🟡 In progress |
 | 1 | **First Words** | Lessons 2–4 | Z11, Z3 | 🟡 In progress |
-| 2 | **The Full Warehouse** | Lessons 5–11 | Z3 in depth | 🔲 Not started |
+| 2 | **The Full Warehouse** | Lessons 5–11 | Z3 in depth | 🟡 In progress |
 | 3 | **The Factory Floor** | Lessons 12–19 | Z5 | 🔲 Not started |
 | 4 | **The Supporting Buildings** | Lessons 20–25 | Z1, Z2, Z4, Z7, Z8 | 🔲 Not started |
 | 5 | **Advanced Systems** | Advanced Phase 5 | Z6, Z9 | 🔲 Not started |
@@ -107,7 +107,7 @@
 
 | Lesson | Zone | Topic | Status |
 |---|---|---|---|
-| Lesson 5 | Z3 → Z5 | Casting — pressing objects into moulds | 🔲 Not started |
+| Lesson 5 | Z3 → Z5 | Casting — pressing objects into moulds | 🟡 Drafted |
 | Lesson 6 | Z3 — Warehouse | Strings — scrolls in depth | 🔲 Not started |
 | Lesson 7 | Z3 — Warehouse | Lists — numbered rows in depth | 🔲 Not started |
 | Lesson 8 | Z5 — Factory Floor | Functions — the first workstation | 🔲 Not started |
