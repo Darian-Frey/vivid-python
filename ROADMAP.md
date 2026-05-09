@@ -111,7 +111,7 @@
 | Lesson 6 | Z3 — Warehouse | Strings — scrolls in depth | 🟡 Drafted |
 | Lesson 7 | Z3 — Warehouse | Lists — numbered rows in depth | 🟡 Drafted |
 | Lesson 8 | Z5 — Factory Floor | Functions — the first workstation | 🟡 Drafted |
-| Lesson 9 | Z3 — Warehouse | Scope — the locked rooms in full | 🔲 Not started |
+| Lesson 9 | Z3 — Warehouse | Scope — the locked rooms in full | 🟡 Drafted |
 | Lesson 10 | Z3 — Warehouse | Dictionaries — filing cabinets in depth | 🔲 Not started |
 | Lesson 11 | Z3 — Warehouse | Tuples and Sets — sealed crates and unsorted bins | 🔲 Not started |
 
