@@ -113,7 +113,7 @@
 | Lesson 8 | Z5 — Factory Floor | Functions — the first workstation | 🟡 Drafted |
 | Lesson 9 | Z3 — Warehouse | Scope — the locked rooms in full | 🟡 Drafted |
 | Lesson 10 | Z3 — Warehouse | Dictionaries — filing cabinets in depth | 🟡 Drafted |
-| Lesson 11 | Z3 — Warehouse | Tuples and Sets — sealed crates and unsorted bins | 🔲 Not started |
+| Lesson 11 | Z3 — Warehouse | Tuples and Sets — sealed crates and unsorted bins | 🟡 Drafted |
 
 **Note on Lesson 8**: Functions technically belong to Z5 (Factory Floor) but are introduced here because the Warehouse cannot be fully understood without knowing what a workstation is — locked rooms only make sense in the context of a workstation that uses them. Lesson 8 is a brief excursion to the Factory Floor entrance before returning to complete the Warehouse.
 
