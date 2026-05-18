@@ -156,7 +156,7 @@
 | Lesson 12 | Z5 — Factory Floor | Operators — the tools on the floor | 🟡 Drafted |
 | Lesson 13 | Z5 — Factory Floor | If / Else — junctions and inspection gates | 🟡 Drafted |
 | Lesson 14 | Z5 — Factory Floor | Loops — conveyor belts, emergency stops, skip gates | 🟡 Drafted |
-| Lesson 15 | Z5 — Factory Floor | Comprehensions — compact belt expressions | 🔲 Not started |
+| Lesson 15 | Z5 — Factory Floor | Comprehensions — compact belt expressions | 🟡 Drafted |
 | Lesson 16 | Z5 — Factory Floor | Classes — workshop blueprints and built workshops | 🔲 Not started |
 | Lesson 17 | Z5 — Factory Floor | Inheritance — extending a blueprint | 🔲 Not started |
 | Lesson 18 | Z5 — Factory Floor | Iterators and Generators — passing one item and waiting | 🔲 Not started |

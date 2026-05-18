@@ -154,6 +154,7 @@ The tutorial uses specific physical verbs for specific Python operations. Use th
 | Comment (`# ...`) | **Note pinned to the shelves** | "A note pinned to the shelf is for the human reader; the machine walks past it." |
 | Indentation (block syntax) | **Lane markings on the floor** | "Lane markings group lines into one run of work; every line inside the same lane belongs to the same job." |
 | f-string (`f"...{name}..."`) | **Fill-in scroll** | "A fill-in scroll has named windows; at the moment the scroll is sealed, each window is filled with the current value of the named cubbyhole it points to." |
+| Comprehension (`[expr for x in coll]` and friends) | **Compact belt** | "A compact belt is a single sealed unit — items enter one end, a finished collection emerges from the other in one motion. No intermediate accumulator visible." |
 | `logging.info()` etc. | **Report to CCTV** | "The workstation reports to CCTV: shift started." |
 | `append()` on a list | **Add to the numbered row** | "Add the new stone to the end of the numbered row." |
 | `dict[key]` lookup | **Open the labelled drawer** | "Open the drawer labelled `player_name` and retrieve what is inside." |
