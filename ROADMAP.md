@@ -202,7 +202,7 @@
 | Lesson | Zone | Topic | Status |
 |---|---|---|---|
 | Lesson 20 | Z1 — Tool Store | Modules and Packages — stocking and fetching | 🟡 Drafted |
-| Lesson 21 | Z2, Z8 — Goods In, Records Dept | File Handling — crates at the loading bay | 🔲 Not started |
+| Lesson 21 | Z2, Z8 — Goods In, Records Dept | File Handling — crates at the loading bay | 🟡 Drafted |
 | Lesson 22 | Z7 — Quality Control | Error Handling — the inspection belt | 🔲 Not started |
 | Lesson 23 | Z8 — Records Department | Databases — the permanent archive | 🔲 Not started |
 | Lesson 24 | Z2 — Goods In | User Input in Depth — work orders and terminals | 🔲 Not started |
