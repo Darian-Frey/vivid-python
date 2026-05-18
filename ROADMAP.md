@@ -26,7 +26,7 @@
 | 0 | **Foundation** | Overview, Lesson 1 | Z3 — Warehouse | 🟡 In progress |
 | 1 | **First Words** | Lessons 2–4 | Z11, Z3 | 🟡 In progress |
 | 2 | **The Full Warehouse** | Lessons 5–11 | Z3 in depth | 🟡 In progress |
-| 3 | **The Factory Floor** | Lessons 12–19 | Z5 | 🔲 Not started |
+| 3 | **The Factory Floor** | Lessons 12–19 | Z5 | 🟡 In progress |
 | 4 | **The Supporting Buildings** | Lessons 20–25 | Z1, Z2, Z4, Z7, Z8 | 🔲 Not started |
 | 5 | **Advanced Systems** | Advanced Phase 5 | Z6, Z9 | 🔲 Not started |
 | 6 | **Concurrency** | Advanced Phase 6 | Z10 | 🔲 Not started |
@@ -153,7 +153,7 @@
 
 | Lesson | Zone | Topic | Status |
 |---|---|---|---|
-| Lesson 12 | Z5 — Factory Floor | Operators — the tools on the floor | 🔲 Not started |
+| Lesson 12 | Z5 — Factory Floor | Operators — the tools on the floor | 🟡 Drafted |
 | Lesson 13 | Z5 — Factory Floor | If / Else — junctions and inspection gates | 🔲 Not started |
 | Lesson 14 | Z5 — Factory Floor | Loops — conveyor belts, emergency stops, skip gates | 🔲 Not started |
 | Lesson 15 | Z5 — Factory Floor | Comprehensions — compact belt expressions | 🔲 Not started |
