@@ -160,7 +160,7 @@
 | Lesson 16 | Z5 — Factory Floor | Classes — workshop blueprints and built workshops | 🟡 Drafted |
 | Lesson 17 | Z5 — Factory Floor | Inheritance — extending a blueprint | 🟡 Drafted |
 | Lesson 18 | Z5 — Factory Floor | Iterators and Generators — passing one item and waiting | 🟡 Drafted |
-| Lesson 19 | Z5 — Factory Floor | Lambda and Decorators — impromptu workstations and wrappers | 🔲 Not started |
+| Lesson 19 | Z5 — Factory Floor | Lambda and Decorators — impromptu workstations and wrappers | 🟡 Drafted |
 
 **What the learner can do after Phase 3:**
 
