@@ -27,7 +27,7 @@
 | 1 | **First Words** | Lessons 2–4 | Z11, Z3 | 🟡 In progress |
 | 2 | **The Full Warehouse** | Lessons 5–11 | Z3 in depth | 🟡 In progress |
 | 3 | **The Factory Floor** | Lessons 12–19 | Z5 | 🟡 In progress |
-| 4 | **The Supporting Buildings** | Lessons 20–25 | Z1, Z2, Z4, Z7, Z8 | 🔲 Not started |
+| 4 | **The Supporting Buildings** | Lessons 20–25 | Z1, Z2, Z4, Z7, Z8 | 🟡 In progress |
 | 5 | **Advanced Systems** | Advanced Phase 5 | Z6, Z9 | 🔲 Not started |
 | 6 | **Concurrency** | Advanced Phase 6 | Z10 | 🔲 Not started |
 
@@ -201,7 +201,7 @@
 
 | Lesson | Zone | Topic | Status |
 |---|---|---|---|
-| Lesson 20 | Z1 — Tool Store | Modules and Packages — stocking and fetching | 🔲 Not started |
+| Lesson 20 | Z1 — Tool Store | Modules and Packages — stocking and fetching | 🟡 Drafted |
 | Lesson 21 | Z2, Z8 — Goods In, Records Dept | File Handling — crates at the loading bay | 🔲 Not started |
 | Lesson 22 | Z7 — Quality Control | Error Handling — the inspection belt | 🔲 Not started |
 | Lesson 23 | Z8 — Records Department | Databases — the permanent archive | 🔲 Not started |
