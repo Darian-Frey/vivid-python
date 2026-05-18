@@ -205,7 +205,7 @@
 | Lesson 21 | Z2, Z8 — Goods In, Records Dept | File Handling — crates at the loading bay | 🟡 Drafted |
 | Lesson 22 | Z7 — Quality Control | Error Handling — the inspection belt | 🟡 Drafted |
 | Lesson 23 | Z8 — Records Department | Databases — the permanent archive | 🟡 Drafted |
-| Lesson 24 | Z2 — Goods In | User Input in Depth — work orders and terminals | 🔲 Not started |
+| Lesson 24 | Z2 — Goods In | User Input in Depth — work orders and terminals | 🟡 Drafted |
 | Lesson 25 | Z4 — Shift Manager's Office | Putting It Together — the complete shift | 🔲 Not started |
 
 **What the learner can do after Phase 4:**
