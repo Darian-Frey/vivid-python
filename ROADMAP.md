@@ -206,7 +206,7 @@
 | Lesson 22 | Z7 — Quality Control | Error Handling — the inspection belt | 🟡 Drafted |
 | Lesson 23 | Z8 — Records Department | Databases — the permanent archive | 🟡 Drafted |
 | Lesson 24 | Z2 — Goods In | User Input in Depth — work orders and terminals | 🟡 Drafted |
-| Lesson 25 | Z4 — Shift Manager's Office | Putting It Together — the complete shift | 🔲 Not started |
+| Lesson 25 | Z4 — Shift Manager's Office | Putting It Together — the complete shift | 🟡 Drafted |
 
 **What the learner can do after Phase 4:**
 
@@ -219,12 +219,12 @@
 
 **Phase 4 exit criteria:**
 
-- [ ] All six lessons written and vocabulary-compliant
-- [ ] Lesson 20 distinguishes "ordering" (`pip install`) from "fetching" (`import`) clearly
-- [ ] Lesson 21 uses "receive a crate at the loading bay" for file open and "lockable room" for `with` consistently
-- [ ] Lesson 22 uses the full error vocabulary from VOCABULARY.md Part 5 for all examples
-- [ ] Lesson 25 introduces Z4 (Shift Manager's Office) as the final zone — the learner has now visited every building in the complex
-- [ ] Lesson 25 ends with a complete worked example that touches all five main production line zones
+- [x] All six lessons written and vocabulary-compliant
+- [x] Lesson 20 distinguishes "ordering" (`pip install`) from "fetching" (`import`) clearly
+- [x] Lesson 21 uses "receive a crate at the loading bay" for file open and "lockable room" for `with` consistently
+- [x] Lesson 22 uses the full error vocabulary from VOCABULARY.md Part 5 for all examples
+- [x] Lesson 25 introduces Z4 (Shift Manager's Office) as the final zone — the learner has now visited every building in the complex
+- [x] Lesson 25 ends with a complete worked example that touches all five main production line zones
 
 **Locus requirements for Phase 4:**
 
