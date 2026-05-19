@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Main series](https://img.shields.io/badge/main%20series-25%20of%2025%20drafted-brightgreen)
-![Advanced](https://img.shields.io/badge/advanced-0%20of%204-yellow)
+![Advanced](https://img.shields.io/badge/advanced-4%20of%204%20drafted-brightgreen)
 ![Language](https://img.shields.io/badge/language-Python-yellow)
 ![Audience](https://img.shields.io/badge/audience-visual--spatial%20learners-purple)
 
@@ -119,7 +119,7 @@ Once you know what a stone looks like, you will never mistake it for a scroll.
 
 ## Lessons
 
-The full 25-lesson main series is drafted. The four advanced lessons (Testing, Logging, Threading, Async) are next.
+The full 25-lesson main series and all four advanced lessons (Testing, Logging, Threading, Async) are drafted. Each lesson now awaits a content-review pass and an alignment pass with the [Locus](https://github.com/Darian-Frey/Locus) renderer.
 
 ### Main series
 
@@ -155,10 +155,10 @@ The full 25-lesson main series is drafted. The four advanced lessons (Testing, L
 
 | # | Zone | Topic | Status |
 |---|---|---|---|
-| 5a | Z6 — Testing Laboratory | Testing — pytest, station checks | 🔲 Not started |
-| 5b | Z9 — CCTV Room | Logging — permanent records from every zone | 🔲 Not started |
-| 6a | Z10 — Night Shift Wing | Threading — two lines running in parallel | 🔲 Not started |
-| 6b | Z10 — Night Shift Wing | Async — one worker, no idle time | 🔲 Not started |
+| 5a | Z6 — Testing Laboratory | [Testing — pytest, station checks](lessons/advanced-05a-testing.md) | 🟡 Drafted |
+| 5b | Z9 — CCTV Room | [Logging — permanent records from every zone](lessons/advanced-05b-logging.md) | 🟡 Drafted |
+| 6a | Z10 — Night Shift Wing | [Threading — two lines running in parallel](lessons/advanced-06a-threading.md) | 🟡 Drafted |
+| 6b | Z10 — Night Shift Wing | [Async — one worker, no idle time](lessons/advanced-06b-async.md) | 🟡 Drafted |
 
 🟡 **Drafted** means the lesson is on disk and readable. Each lesson will receive a final content-review pass and an alignment pass with the [Locus](https://github.com/Darian-Frey/Locus) renderer before being marked complete.
 
@@ -209,7 +209,7 @@ All visual terms used in this series — object names, zone names, action verbs,
 > **Status**: Active  
 > **Provenance**: Claude (primary author), Shane Hartley (series director)  
 > **Last reviewed**: 2026-05-19  
-> **Why**: Main 25-lesson series fully drafted. Advanced phases (testing, logging, threading, async) ahead. Each lesson awaits a final content-review pass and alignment with the Locus renderer.
+> **Why**: All 29 lessons (25 main + 4 advanced) drafted. Phase status across the board: 🟡 In progress — every phase awaits a final content-review pass and alignment with the Locus renderer per the "tutorial and Locus move together" rule.
 
 ---
 

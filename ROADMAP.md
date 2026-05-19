@@ -282,7 +282,7 @@
 | Lesson | Zone | Topic | Status |
 |---|---|---|---|
 | Advanced 6a | Z10 — Night Shift Wing | Threading — two lines running in parallel | 🟡 Drafted |
-| Advanced 6b | Z10 — Night Shift Wing | Async — one worker, no idle time | 🔲 Not started |
+| Advanced 6b | Z10 — Night Shift Wing | Async — one worker, no idle time | 🟡 Drafted |
 
 **What the learner can do after Phase 6:**
 
@@ -293,9 +293,9 @@
 
 **Phase 6 exit criteria:**
 
-- [ ] Both lessons written and vocabulary-compliant
-- [ ] Lesson 6a introduces race conditions as "two lines reaching for the same shelf simultaneously"
-- [ ] Both lessons open with the explicit warning from VOCABULARY.md: do not enter this wing until the main factory is running smoothly
+- [x] Both lessons written and vocabulary-compliant
+- [x] Lesson 6a introduces race conditions as "two lines reaching for the same shelf simultaneously"
+- [x] Both lessons open with the explicit warning from VOCABULARY.md: do not enter this wing until the main factory is running smoothly
 
 **Locus requirements for Phase 6:**
 
