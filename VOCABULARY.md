@@ -63,6 +63,22 @@ These are the canonical descriptions of how zones connect. Use these description
 - **CCTV Room ← all zones**: the CCTV Room receives feeds from everywhere. It does not produce anything — it only records.
 - **Testing Laboratory ← Factory Floor**: workstations are brought in isolation to the Testing Laboratory before the shift begins. Live production material never enters the Testing Laboratory.
 
+### 1.4 Testing Laboratory vs Quality Control
+
+Two zones — Z6 Testing Laboratory and Z7 Quality Control — both deal with *verification*, and beginners often conflate them. They are different buildings doing different jobs at different times. This table is the canonical comparison; reference it in any lesson that touches either zone.
+
+| Aspect | Testing Laboratory (Z6) | Quality Control (Z7) |
+|---|---|---|
+| When active | Before the shift begins (or in CI before deploy) | During the live shift |
+| Material handled | Synthetic test inputs; controlled scenarios | Real production items in transit |
+| Python tools | `pytest`, `unittest`, `assert` | `try` / `except` / `finally`, `raise` |
+| Failure mode | Test fails; the workstation is rejected before shipment | Alarm caught; the program continues handling it |
+| Frequency | Run before deploy, often automatically | Runs on every job order in production |
+| Question asked | "Does this workstation do what I think it does?" | "Did this specific job go wrong, and how do I recover?" |
+| Lesson | Advanced Phase 5a | Lesson 22 |
+
+A workstation can fail a Testing Lab check (so it never ships) *and* trigger a Quality Control alarm in live use (handled at runtime). Both are normal. Both are valuable. They are not substitutes for one another.
+
 ---
 
 ## Part 2 — Physical Objects (Types)

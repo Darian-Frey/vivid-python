@@ -28,7 +28,7 @@
 | 2 | **The Full Warehouse** | Lessons 5–11 | Z3 in depth | 🟡 In progress |
 | 3 | **The Factory Floor** | Lessons 12–19 | Z5 | 🟡 In progress |
 | 4 | **The Supporting Buildings** | Lessons 20–25 | Z1, Z2, Z4, Z7, Z8 | 🟡 In progress |
-| 5 | **Advanced Systems** | Advanced Phase 5 | Z6, Z9 | 🔲 Not started |
+| 5 | **Advanced Systems** | Advanced Phase 5 | Z6, Z9 | 🟡 In progress |
 | 6 | **Concurrency** | Advanced Phase 6 | Z10 | 🔲 Not started |
 
 ---
@@ -246,7 +246,7 @@
 
 | Lesson | Zone | Topic | Status |
 |---|---|---|---|
-| Advanced 5a | Z6 — Testing Laboratory | Testing — station checks with pytest | 🔲 Not started |
+| Advanced 5a | Z6 — Testing Laboratory | Testing — station checks with pytest | 🟡 Drafted |
 | Advanced 5b | Z9 — CCTV Room | Logging — permanent records from every zone | 🔲 Not started |
 
 **What the learner can do after Phase 5:**
