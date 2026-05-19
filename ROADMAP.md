@@ -29,7 +29,7 @@
 | 3 | **The Factory Floor** | Lessons 12–19 | Z5 | 🟡 In progress |
 | 4 | **The Supporting Buildings** | Lessons 20–25 | Z1, Z2, Z4, Z7, Z8 | 🟡 In progress |
 | 5 | **Advanced Systems** | Advanced Phase 5 | Z6, Z9 | 🟡 In progress |
-| 6 | **Concurrency** | Advanced Phase 6 | Z10 | 🔲 Not started |
+| 6 | **Concurrency** | Advanced Phase 6 | Z10 | 🟡 In progress |
 
 ---
 
@@ -281,7 +281,7 @@
 
 | Lesson | Zone | Topic | Status |
 |---|---|---|---|
-| Advanced 6a | Z10 — Night Shift Wing | Threading — two lines running in parallel | 🔲 Not started |
+| Advanced 6a | Z10 — Night Shift Wing | Threading — two lines running in parallel | 🟡 Drafted |
 | Advanced 6b | Z10 — Night Shift Wing | Async — one worker, no idle time | 🔲 Not started |
 
 **What the learner can do after Phase 6:**

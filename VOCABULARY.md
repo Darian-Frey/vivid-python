@@ -144,6 +144,18 @@ The physical character of each object (shape, visual appearance, weight as descr
 | Enclosing scope | **Anteroom** | A room between the open aisle and a locked room. Belongs to an outer function; accessible to inner functions nested within it. | Visually between outer and inner function rooms. | Lesson 9 |
 | Built-in scope | **Factory standard kit** | Tools and materials that come pre-installed in every factory — `print`, `len`, `range`, `type` etc. Always available without fetching from the Tool Store. | Pre-populated shelf visible in every room. Distinct from user-defined shelf items. | Lesson 9 |
 
+### 2.5 Concurrency Objects
+
+These items belong to the Night Shift Wing (Z10). They are deliberately introduced last in the series; do not bring them into a lesson before the rest of the factory is fully familiar.
+
+| Python concept | Canonical object | Physical character | Locus representation | Tutorial introduced |
+|---|---|---|---|---|
+| `threading.Thread` | **Parallel production line** | A second conveyor belt running alongside the main one, with its own worker, fed by the same warehouse. | A second rooms-and-corridors track running in parallel; visual link to the main track at shared shelves. | Advanced 6a |
+| `threading.Lock` | **Shelf key** | A single key in a holder beside a shared shelf. Only the worker holding the key may access the shelf; others wait at the holder until the key is returned. | Distinct key/holder visual on the shared shelf. Workers queued visibly when more than one is waiting. | Advanced 6a |
+| Race condition | **Two lines reaching for the same shelf simultaneously** | Two parallel workers arriving at the same cubbyhole in the same instant — both read the value, both compute a new value, both write back, and one of the two updates is silently lost. | Conflict marker on the shared shelf when two parallel tracks touch it without a key. | Advanced 6a |
+| `async def` / `await` | **Pause-able job order** | A workstation that announces *"I am waiting for something to arrive"* and stands aside, letting the worker pick up a different waiting job until the materials are ready. | Asynchronous workstation visual with explicit pause state; the worker entity is shared across many. | Advanced 6b |
+| `asyncio.run(...)` | **The async coordinator** | The supervisor on the Night Shift floor who keeps track of every pause-able job and assigns the single worker to whichever job is ready next. | Coordinator overlay during async execution. | Advanced 6b |
+
 ---
 
 ## Part 3 — Physical Actions (Verbs)
