@@ -247,7 +247,7 @@
 | Lesson | Zone | Topic | Status |
 |---|---|---|---|
 | Advanced 5a | Z6 — Testing Laboratory | Testing — station checks with pytest | 🟡 Drafted |
-| Advanced 5b | Z9 — CCTV Room | Logging — permanent records from every zone | 🔲 Not started |
+| Advanced 5b | Z9 — CCTV Room | Logging — permanent records from every zone | 🟡 Drafted |
 
 **What the learner can do after Phase 5:**
 
@@ -259,9 +259,9 @@
 
 **Phase 5 exit criteria:**
 
-- [ ] Both lessons written and vocabulary-compliant
-- [ ] Lesson 5a clearly distinguishes the Testing Laboratory from Quality Control using the table in VOCABULARY.md
-- [ ] Lesson 5b uses "report to CCTV" for `logging` calls and distinguishes all five severity levels by their monitor colour
+- [x] Both lessons written and vocabulary-compliant
+- [x] Lesson 5a clearly distinguishes the Testing Laboratory from Quality Control using the table in VOCABULARY.md
+- [x] Lesson 5b uses "report to CCTV" for `logging` calls and distinguishes all five severity levels by their monitor colour
 
 **Locus requirements for Phase 5:**
 

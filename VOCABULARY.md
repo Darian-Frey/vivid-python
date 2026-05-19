@@ -272,6 +272,20 @@ Execution temperature is separate from type colour. Temperature overlays on top 
 
 The tutorial refers to execution temperature in the CCTV Room zone description. The CCTV monitors show heat in real time — a function that runs constantly produces visible warmth in the renderer.
 
+### 4.5 Logging Severity in the CCTV Room
+
+The CCTV Room shows feeds from every zone, but every report carried into the Room arrives with a severity level. Each severity has a monitor colour. This table is the canonical mapping; the tutorial and Locus both use these colours consistently. Reference it in any lesson that touches `logging`.
+
+| Severity level | Monitor colour | Physical metaphor | When to use |
+|---|---|---|---|
+| `DEBUG` | Dim grey | A development monitor — easily filtered, often off in production | Internal details useful while developing |
+| `INFO` | Steady white | An ordinary status monitor | Normal events the operator should see: shift started, file written, batch complete |
+| `WARNING` | Amber | A monitor with an amber tint — something noteworthy, not necessarily wrong | A retry happened, a deprecated path was used, an unusual but recoverable situation |
+| `ERROR` | Red | A red-tinted monitor — something went wrong on this job | An alarm was triggered or a workstation failed to complete its job |
+| `CRITICAL` | Flashing red | A monitor whose entire face is flashing red — the operator must respond immediately | The program may not survive: data loss, resource exhaustion, a fatal misconfiguration |
+
+`DEBUG` and `INFO` are common during development; production typically filters them out and keeps only `WARNING` and above. `ERROR` and `CRITICAL` should always be visible — they are how a running program signals "I need attention" to anyone watching the monitors.
+
 ---
 
 ## Part 5 — Error Vocabulary
